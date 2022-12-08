@@ -1,4 +1,4 @@
-a {
+* {
     text-decoration: none;
 }
 
@@ -31,9 +31,25 @@ a {
     line-height: 80px;
 }
 
+.apply_style_h3 {
+    color: green;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 80px;
+}
+
+.apply_style_h4 {
+    color: grey;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 25px;
+}
+
 .apply_style_img {
     border-radius: 10px;
-    width: 50px;
+    width: 500px;
 }
 
 .apply_style_imput {
