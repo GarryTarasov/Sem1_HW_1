@@ -72,6 +72,7 @@
 
 .apply_style_imput::placeholder {
     padding-left: 10%;
+    color: green;
 }
 
 body {
